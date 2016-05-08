@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+  <title>Test Suite</title>
+</head>
+<body>
+<table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
+<tr><td><b>Test Suite</b></td></tr>
+<tr><td><a href="REQ-UI-01.html">REQ-UI-01</a></td></tr>
+<tr><td><a href="REQ-UI-02.html">REQ-UI-02</a></td></tr>
+<tr><td><a href="REQ-UI-03.html">REQ-UI-03</a></td></tr>
+<tr><td><a href="REQ-UI-04.html">REQ-UI-04</a></td></tr>
+<tr><td><a href="REQ-UI-05.html">REQ-UI-05</a></td></tr>
+<tr><td><a href="REQ-UI-06.html">REQ-UI-06</a></td></tr>
+<tr><td><a href="REQ-UI-07.html">REQ-UI-07</a></td></tr>
+<tr><td><a href="REQ-UI-08.html">REQ-UI-08</a></td></tr>
+<tr><td><a href="REQ-UI-09.html">REQ-UI-09</a></td></tr>
+<tr><td><a href="REQ-UI-10.html">REQ-UI-10</a></td></tr>
+<tr><td><a href="REQ-UI-11.html">REQ-UI-11</a></td></tr>
+<tr><td><a href="REQ-UI-12.html">REQ-UI-12</a></td></tr>
+<tr><td><a href="REQ-UI-12-additional-test-cases.html">REQ-UI-12-additional-test-cases</a></td></tr>
+</tbody></table>
+</body>
+</html>
