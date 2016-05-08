@@ -1,0 +1,27 @@
+import junit.framework.Test;
+import junit.framework.TestSuite;
+
+public class DOCLER {
+
+  public static Test suite() {
+    TestSuite suite = new TestSuite();
+    suite.addTestSuite(REQ-UI-01.class);
+    suite.addTestSuite(REQ-UI-02.class);
+    suite.addTestSuite(REQ-UI-03.class);
+    suite.addTestSuite(REQ-UI-04.class);
+    suite.addTestSuite(REQ-UI-05.class);
+    suite.addTestSuite(REQ-UI-06.class);
+    suite.addTestSuite(REQ-UI-07.class);
+    suite.addTestSuite(REQ-UI-08.class);
+    suite.addTestSuite(REQ-UI-09.class);
+    suite.addTestSuite(REQ-UI-10.class);
+    suite.addTestSuite(REQ-UI-11.class);
+    suite.addTestSuite(REQ-UI-12.class);
+    suite.addTestSuite(REQ-UI-12-additional-test-cases.class);
+    return suite;
+  }
+
+  public static void main(String[] args) {
+    junit.textui.TestRunner.run(suite());
+  }
+}
